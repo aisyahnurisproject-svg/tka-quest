@@ -1,0 +1,11 @@
+{
+  "name": "TKA QUEST — Akademi Penjelajah Ilmu",
+  "short_name": "TKA QUEST",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FDF6E2",
+  "theme_color": "#FEF9C3",
+  "lang": "id",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
